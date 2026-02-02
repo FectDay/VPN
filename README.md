@@ -6,3 +6,7 @@ It is not open source and may not be used to deploy your own bot.
 
 # fectvpn_bot
 The official FectDay Telegram bot for getting the FectVPN beta version.
+
+## Links
+**Telegram bot:** https://t.me/fectvpn_bot
+**Telegram channel:** https://t.me/fectday
